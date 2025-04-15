@@ -1,0 +1,3 @@
+2025-04-15 13:13:49 - Вызвана функция: flat_generator, Аргументы: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]], Результат: <generator object flat_generator at 0x000001EE5ED83510>
+2025-04-15 13:13:49 - Вызвана функция: flat_generator, Аргументы: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]], Результат: <generator object flat_generator at 0x000001EE5ED83510>
+2025-04-15 13:13:49 - Вызвана функция: flat_generator, Аргументы: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]], Результат: <generator object flat_generator at 0x000001EE5ED83510>
